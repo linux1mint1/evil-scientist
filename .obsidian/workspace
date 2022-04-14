@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zakonczenie_Dobre_Poswiecenie.md",
+            "file": "Quests/Grand_Finale/Secret_Archive.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zakonczenie_Dobre_Poswiecenie.md",
+                "file": "Quests/Grand_Finale/Secret_Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,15 @@
   },
   "active": "35cf284f2514aa4d",
   "lastOpenFiles": [
-    "Zakonczenie_Dobre_Poswiecenie.md",
-    "Zakonczenie_Zle_Zdrada.md",
-    "README.md"
+    "Quests/Grand_Finale/Secret_Archive.md",
+    "Quests/Grand_Finale/The_Most_important_Choice.md",
+    "Quests/Body/Zoo.md",
+    "Zoo.md",
+    "Quests/Grand_Finale/coralation_not_cousation.md",
+    "Lore/Zakonczenie_Dobre_Poswiecenie.md",
+    "Lore/Zakonczenie_Zle_Zdrada.md",
+    "coralation_not_cousation.md",
+    "The_Most_important_Choice.md",
+    "Secret_Archive.md"
   ]
 }
