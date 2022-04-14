@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "2c9e9fd7336596d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "35cf284f2514aa4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zakończenie_Złe_Zdrada.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cc1d06ba71e3968",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60fedcdb65ee48d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e67dad528e4fbf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96c102cd5c94012d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d55d5c10f0ecaa11",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d49370f6bd3533f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d35ae7138a818706",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zakończenie_Złe_Zdrada.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "35cf284f2514aa4d",
+  "lastOpenFiles": [
+    "Zakończenie_Złe_Zdrada.md",
+    "Zakończenie_Dobre_Poświęcenie.md",
+    "README.md"
+  ]
+}
