@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zakończenie_Złe_Zdrada.md",
+            "file": "Zakonczenie_Dobre_Poswiecenie.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zakończenie_Złe_Zdrada.md",
+                "file": "Zakonczenie_Dobre_Poswiecenie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "35cf284f2514aa4d",
   "lastOpenFiles": [
-    "Zakończenie_Złe_Zdrada.md",
-    "Zakończenie_Dobre_Poświęcenie.md",
+    "Zakonczenie_Dobre_Poswiecenie.md",
+    "Zakonczenie_Zle_Zdrada.md",
     "README.md"
   ]
 }
