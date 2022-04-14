@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quests/Grand_Finale/Secret_Archive.md",
+            "file": "Quests/Body/Zoo.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Grand_Finale/Secret_Archive.md",
+                "file": "Quests/Body/Zoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "35cf284f2514aa4d",
   "lastOpenFiles": [
-    "Quests/Grand_Finale/Secret_Archive.md",
-    "Quests/Grand_Finale/The_Most_important_Choice.md",
     "Quests/Body/Zoo.md",
-    "Zoo.md",
-    "Quests/Grand_Finale/coralation_not_cousation.md",
+    "Quests/Grand_Finale/Secret_Archive.md",
     "Lore/Zakonczenie_Dobre_Poswiecenie.md",
     "Lore/Zakonczenie_Zle_Zdrada.md",
+    "Quests/Grand_Finale/The_Most_important_Choice.md",
+    "Zoo.md",
+    "Quests/Grand_Finale/coralation_not_cousation.md",
     "coralation_not_cousation.md",
     "The_Most_important_Choice.md",
     "Secret_Archive.md"
